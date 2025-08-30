@@ -26,6 +26,9 @@ This approach is simple, effective, and robust to different hand sizes and posit
 Follow these steps to set up the environment and run the application:
 
 1.  Clone this repository.
+```bash
+   https://github.com/gownikranthi/HandGestureRecognition.git
+```
 2.  Install the required libraries using pip:
     ```bash
     pip install -r requirements.txt
