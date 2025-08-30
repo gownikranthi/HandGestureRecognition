@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Real-Time Static Hand Gesture Recognition
 
 ### 1. Technology Justification
@@ -37,6 +37,6 @@ Follow these steps to set up the environment and run the application:
 4.  Press 'q' to exit the application window.
 
 ### 4. Demonstration
-
+▶️ [Watch the demo video](demo.mp4)
 A short video demonstration of the application in action.
 
