@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Intern Assessment: Real-Time Static Hand Gesture Recognition
 
 ## Your Name: [Your Full Name]
@@ -42,3 +43,6 @@ Follow these steps to set up the environment and run the application:
 A short video demonstration of the application in action.
 
 [Link to or inclusion of `demo.gif` or `demo.mp4`]
+=======
+
+>>>>>>> b0b535fd6de97d9deea8f774f2eee1b8cbe39f75
